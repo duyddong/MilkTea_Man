@@ -1,0 +1,2 @@
+<a href="index.php" style="float:left;width:30%;height:100%;color:#F36;text-align: center;line-height:60px;" font-size='3x'><i class="fas fa-home">  HOME </i></a>
+<a href="index.php" style="float:left;width:30%;height:100%;color:#F36;text-align: center;line-height:60px;" font-size='3x'><i class="fas fa-user-cog">  ADMIN</i></a>
